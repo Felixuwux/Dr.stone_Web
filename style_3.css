@@ -1,0 +1,25 @@
+body{
+	background-image: url(https://img2.wallspic.com/previews/6/1/0/5/5/155016/155016-anime-estudio-paisaje_natural-planta_terrestre-bioma-x750.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1{
+	text-align: center;
+	color: #ffff;
+	font-size: 5em;
+}
+
+h3{
+	color:white;
+	font-family: "Libre Baskerville";
+}
+
+#Send-button{
+	height: 3em;
+	width: 5em;
+	font-family:"Libre Baskerville" ;
+	padding: 1em;
+	text-align: center;
+	border-radius: 1em;
+	background-color: #5bde89;
+}

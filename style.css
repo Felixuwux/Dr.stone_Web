@@ -1,0 +1,50 @@
+body{
+	background-image: url(https://acegif.com/wp-content/gifs/clover-leaf-2.gif) ;
+	
+}
+h1{
+	text-align: center;
+	color: white;
+	font-size: 5rem;
+}
+h3{
+	color: #162e0f;
+}
+
+h2{
+	font-family: "Libre Baskerville";
+	text-align: center;
+	color: black;
+}
+#div-p-h3-lista{
+	text-align: justify;
+}
+h3{
+	font-family: "Libre Baskerville";
+}
+#div-imagen{
+	text-align: center;
+	
+}
+#boichi{
+	width: 2em;
+	height: 2em;
+	text-align: center;
+
+}
+#cancion{
+	text-align: center;
+}
+
+.section-plot{
+	margin: auto;
+	float: center;
+	background:linear-gradient(#97e89f,white);
+	width: 45rem;
+	height: 20rem;
+	text-align: center;
+	border-radius: all;
+	border-width: 8px;
+	border-style: solid;
+	border-color: black;
+}
